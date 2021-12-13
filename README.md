@@ -2,6 +2,6 @@
 
 > Normal kullanıcı tokeni ile giriş yapar.
 
-> Normal botlara göre daha hızlı reaksiyon gösterir
+> Normal botlara göre daha hızlı reaksiyon gösterir.
 
-> Bot 10 Starda paylaşılacak.
+> Keyifli Kullanımlar.
